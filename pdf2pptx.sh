@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Alireza Shafaei - shafaei@cs.ubc.ca - Jan 2016
 
 resolution=1024
